@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Thanks for visiting the site!
 
 Template Name: Presento
 Template URL: https://bootstrapmade.com/presento-bootstrap-corporate-template/
